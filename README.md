@@ -1,6 +1,8 @@
 ## This assignment is part of the assignment during MSDS at USFCA
 Communication for analytics - Central Limit Theorem
 
+Team members: Ajayeswar Reddy, Akhil Gopi, Max Ma
+
 This project is about demonstrating CLT and how regardless of the underlying distribution, we get an approximately normal distribution for the sample means with big enough sample size. The project does this by generating random realizations from a distribution through inverse cdf method. The realizations thus obtained are plotted as a histogram. 
 
 The project uses a fair die and unfair die as an example to showcase the above. It also shows how the mean of the resulting normal looking distribution is approximately equal to the underlying population's true mean and how variance decreases with increasing sample size. 
